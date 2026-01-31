@@ -1,4 +1,4 @@
-# Hi, I'm Satya Pratap Singh 👋
+# Hi, I'm Satya S. 👋
 
 
 ## 🚀 Full-Stack Developer | Angular | .NET | RESTful APIs
@@ -33,7 +33,7 @@ Check out my repositories for open-source contributions and sample projects!
 
 ## 📫 Let's Connect
 
-📩 **Email:** [iamjadon92@gmail.com](mailto:iamjadon92@gmail.com)  
+📩 **Email:** [satya.singh1992@outlook.com](mailto:satya.singh1992@outlook.com)  
 
 Looking forward to collaborating on exciting projects! 🚀
 
